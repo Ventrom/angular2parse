@@ -1,12 +1,12 @@
 {
-  "name": "angular2parse",
+  "name": "@auscope/angular2parse",
   "version": "2.0.0",
   "author": "Articode",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/articodeltd/angular2parse/issues"
+    "url": "https://github.com/AuScope/angular2parse/issues"
   },
-  "homepage": "https://github.com/articodeltd/angular2parse#readme",
+  "homepage": "https://github.com/AuScope/angular2parse#readme",
   "scripts": {
     "ng": "ng",
     "build": "ng build",
@@ -20,6 +20,7 @@
     "@angular/localize": "^13.3.0",
     "@angular/platform-browser": "~13.3.0",
     "@angular/platform-browser-dynamic": "~13.3.0",
+    "@auscope/angular2parse": "file:projects/angular2parse",
     "rxjs": "~6.5.4",
     "tslib": "^2.3.1",
     "zone.js": "~0.11.4"

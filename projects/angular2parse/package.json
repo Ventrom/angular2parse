@@ -1,12 +1,16 @@
 {
-  "name": "angular2parse",
-  "version": "3.0.0",
-  "author": "Articode",
-  "license": "MIT",
+  "name": "@auscope/angular2parse",
+  "version": "2.0.0",
+  "description": "Fork of articode repo for Angular v13",
   "bugs": {
-    "url": "https://github.com/articodeltd/angular2parse/issues"
+    "url": "https://github.com/AuScope/angular2parse/issues"
   },
-  "homepage": "https://github.com/articodeltd/angular2parse#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AuScope/angular2parse.git",
+    "directory": "projects/angular2parse"
+  },
+  "homepage": "https://github.com/AuScope/angular2parse#readme",
   "peerDependencies": {
     "@angular/common": "^13.0.0",
     "@angular/core": "^13.0.0"
