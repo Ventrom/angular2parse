@@ -1,6 +1,6 @@
 {
   "name": "@auscope/angular2parse",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Fork of articode repo for Angular v13",
   "bugs": {
     "url": "https://github.com/AuScope/angular2parse/issues"
