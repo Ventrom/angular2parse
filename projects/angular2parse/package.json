@@ -1,18 +1,9 @@
 {
-  "name": "@auscope/angular2parse",
-  "version": "2.0.4",
-  "description": "Fork of articode repo for Angular v13",
-  "bugs": {
-    "url": "https://github.com/AuScope/angular2parse/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/AuScope/angular2parse.git",
-    "directory": "projects/angular2parse"
-  },
-  "homepage": "https://github.com/AuScope/angular2parse#readme",
+  "name": "angular2parse",
+  "version": "14.0.0",
+  "description": "Fork of articode repo for Angular v14",
   "peerDependencies": {
-    "@angular/common": "~13.3.11",
-    "@angular/core": "~13.3.11"
+    "@angular/common": "^14.2.12",
+    "@angular/core": "^14.2.12"
   }
 }
