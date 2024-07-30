@@ -1,9 +1,9 @@
 {
   "name": "angular2parse",
-  "version": "15.0.0",
-  "description": "Fork of articode repo for Angular v15",
+  "version": "16.0.0",
+  "description": "Fork of articode repo for Angular v16",
   "peerDependencies": {
-    "@angular/common": "^15.0.0",
-    "@angular/core": "^15.0.0"
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "angular2parse",
-  "version": "15.0.0",
+  "version": "16.0.0",
   "author": "Articode",
   "license": "MIT",
   "scripts": {
@@ -10,24 +10,24 @@
     "lib:publish": "npm run build:prod; cd dist/angular2parse; npm publish"
   },
   "dependencies": {
-    "@angular/common": "^15.2.10",
-    "@angular/compiler": "^15.2.10",
-    "@angular/core": "^15.2.10",
-    "@angular/localize": "^15.2.10",
-    "@angular/platform-browser": "^15.2.10",
-    "@angular/platform-browser-dynamic": "^15.2.10",
+    "@angular/common": "^16.2.12",
+    "@angular/compiler": "^16.2.12",
+    "@angular/core": "^16.2.12",
+    "@angular/localize": "^16.2.12",
+    "@angular/platform-browser": "^16.2.12",
+    "@angular/platform-browser-dynamic": "^16.2.12",
     "rxjs": "~6.6.7",
     "tslib": "^2.4.1",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.13.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^15.2.11",
-    "@angular/cli": "^15.2.11",
-    "@angular/compiler-cli": "^15.2.10",
-    "@angular/language-service": "^15.2.10",
+    "@angular-devkit/build-angular": "^16.2.14",
+    "@angular/cli": "^16.2.14",
+    "@angular/compiler-cli": "^16.2.12",
+    "@angular/language-service": "^16.2.12",
     "@types/node": "^13.13.52",
     "codelyzer": "^6.0.2",
-    "ng-packagr": "^15.2.2",
+    "ng-packagr": "^16.2.3",
     "ts-node": "~8.10.2",
     "typescript": "~4.9.3"
   }
