@@ -10,7 +10,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "importHelpers": true,
-    "target": "es2020",
+    "target": "ES2022",
     "typeRoots": [
       "node_modules/@types"
     ],
@@ -23,7 +23,8 @@
         "dist/angular2parse/angular2parse",
         "dist/angular2parse"
       ]
-    }
+    },
+    "useDefineForClassFields": false
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
