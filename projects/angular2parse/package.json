@@ -1,9 +1,0 @@
-{
-  "name": "angular2parse",
-  "version": "17.0.0",
-  "description": "Fork of articode repo for Angular v17",
-  "peerDependencies": {
-    "@angular/common": "^17.0.0",
-    "@angular/core": "^17.0.0"
-  }
-}

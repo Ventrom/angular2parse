@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of angular2parse
+ */
+export * from './lib/module';
+export * from './lib/parse';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2FuZ3VsYXIycGFyc2Uvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFDSCxjQUFjLGNBQWMsQ0FBQztBQUM3QixjQUFjLGFBQWEsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYW5ndWxhcjJwYXJzZVxuICovXG5leHBvcnQgKiBmcm9tICcuL2xpYi9tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvcGFyc2UnXG4iXX0=

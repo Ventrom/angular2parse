@@ -1,34 +1,26 @@
 {
   "name": "angular2parse",
   "version": "17.0.0",
-  "author": "Articode",
-  "license": "MIT",
-  "scripts": {
-    "ng": "ng",
-    "build": "ng build",
-    "build:prod": "ng build --configuration production",
-    "lib:publish": "npm run build:prod; cd dist/angular2parse; npm publish"
+  "description": "Fork of articode repo for Angular v17",
+  "peerDependencies": {
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0"
   },
+  "module": "fesm2022/angular2parse.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/angular2parse.mjs",
+      "esm": "./esm2022/angular2parse.mjs",
+      "default": "./fesm2022/angular2parse.mjs"
+    }
+  },
+  "sideEffects": false,
   "dependencies": {
-    "@angular/common": "^17.3.12",
-    "@angular/compiler": "^17.3.12",
-    "@angular/core": "^17.3.12",
-    "@angular/localize": "^17.3.12",
-    "@angular/platform-browser": "^17.3.12",
-    "@angular/platform-browser-dynamic": "^17.3.12",
-    "rxjs": "~6.6.7",
-    "tslib": "^2.4.1",
-    "zone.js": "~0.14.8"
-  },
-  "devDependencies": {
-    "@angular-devkit/build-angular": "^17.3.8",
-    "@angular/cli": "^17.3.8",
-    "@angular/compiler-cli": "^17.3.12",
-    "@angular/language-service": "^17.3.12",
-    "@types/node": "^13.13.52",
-    "codelyzer": "^6.0.2",
-    "ng-packagr": "^17.3.0",
-    "ts-node": "~8.10.2",
-    "typescript": "~5.4.5"
+    "tslib": "^2.3.0"
   }
 }
