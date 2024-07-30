@@ -1,9 +1,0 @@
-{
-  "name": "angular2parse",
-  "version": "18.0.0",
-  "description": "Fork of articode repo for Angular v18",
-  "peerDependencies": {
-    "@angular/common": "^18.0.0",
-    "@angular/core": "^18.0.0"
-  }
-}
