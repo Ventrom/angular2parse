@@ -5,7 +5,6 @@
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
-/// <reference path="chars.ngtypecheck.d.ts" />
 export declare const $EOF = 0;
 export declare const $TAB = 9;
 export declare const $LF = 10;

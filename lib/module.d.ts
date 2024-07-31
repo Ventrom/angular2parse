@@ -1,4 +1,3 @@
-/// <reference path="module.ngtypecheck.d.ts" />
 import { ModuleWithProviders } from '@angular/core';
 import { PipesConfig } from './parse';
 import * as i0 from "@angular/core";

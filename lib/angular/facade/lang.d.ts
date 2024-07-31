@@ -5,7 +5,6 @@
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
-/// <reference path="lang.ngtypecheck.d.ts" />
 export interface BrowserNodeGlobal {
     Object: typeof Object;
     Array: typeof Array;

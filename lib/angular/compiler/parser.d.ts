@@ -5,7 +5,6 @@
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
-/// <reference path="parser.ngtypecheck.d.ts" />
 import { InterpolationConfig } from './interpolation-config';
 import { AST, ASTWithSource, BindingPipe, LiteralMap, ParseSpan, ParserError, TemplateBinding } from './ast';
 import { Lexer, Token } from './lexer';

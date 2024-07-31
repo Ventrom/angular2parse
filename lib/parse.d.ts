@@ -1,4 +1,3 @@
-/// <reference path="parse.ngtypecheck.d.ts" />
 import { InjectionToken } from '@angular/core';
 import * as i0 from "@angular/core";
 export declare const PIPES_CONFIG: InjectionToken<unknown>;

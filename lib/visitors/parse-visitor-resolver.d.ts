@@ -1,4 +1,3 @@
-/// <reference path="parse-visitor-resolver.ngtypecheck.d.ts" />
 import { AST, RecursiveAstVisitor, PropertyRead, MethodCall, KeyedRead, ImplicitReceiver, LiteralPrimitive, Binary, Chain, Conditional, BindingPipe, FunctionCall, Interpolation, KeyedWrite, LiteralArray, LiteralMap, PrefixNot, PropertyWrite, SafePropertyRead, SafeMethodCall, Quote } from '../angular';
 export declare class ParseVisitorResolver extends RecursiveAstVisitor {
     private pipes;
